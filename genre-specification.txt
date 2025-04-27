@@ -305,26 +305,3 @@ e5 - really crazy
 .xrmx - remix of an easily identifiable song, but with a new sound
 .xmsh - mashup of other songs
 .xprd - parody of another song
-
-_____________________________________________________________________________
-
-  ,================.
-  !  Hyper-Values  !
-  `================'
-
-  (strings that match similar values in multiple genre elements)
-
-pk  - punk
-ska - ska
-lat - latin
-blk - balkan
-dub - dub
-reg - reggae
-amb - ambient
-jaz - jazz
-cmt - classic metal
-swg - swing
-fnk - funk
-gru - grunge
-bhg - bhangra
-ohh - old skool hip hop
