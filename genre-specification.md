@@ -72,162 +72,162 @@ _(Multiple values are possible. The groups should appear in the order below. But
 
 ### Rhythm-type
 
-- `.rfor` - standard 4:4 beat
-- `.rtwo` - down beat, house, dance
-- `.rsix` - 3:4 or 6:8, waltz
-- `.rodd` - odd time signature
-- `.rodd##` - an odd time signature with `##` beats where `##` is a zero-padded number 
-- `.rmul` - multiple rhythmic feelings overlaid simultaneously. Common in 6:8 Ethiopian jazz.
-- `.rspt` - split -- different time signatures, one measure after the other
-- `.rspt##&&` - a split time signature with `##` beats and then `&&` beats
-- `.rl*s*` - a rhythm with a mix of "long" beats (three) and "short" beats (two). Any number of `l` and `s` entries may be present here. For example `.rlss`, `.rsls`, and `.rssl` would all have a 7:8 time signature but would each have their own feel. Some esoteric jazz songs can get even crazier like "Samai Thaquil" by "Karl Hector & the Malcouns" which is `.rllllssss`.
-- `.rdnb` - drums and bass beat (fast)
-- `.rfnk` - funk
-- `.ronk` - rock funk
-- `.rreg` - reggae, slow "and" beats
-- `.rdub` - dub
-- `.rdhl` - dancehall 
-- `.rska` - ska, faster "and" beats
-- `.rpkr` - punk rock (fast 4:4)
-- `.rpkf` - punk (fast cut time)
-- `.rmos` - mosh / break down / chug
-- `.rgnd` - grind (double cut time)
-- `.rmet` - metal / double bass pedal fast 4:4 with lots of cymbals
-- `.rglc` - glitch
-- `.roff` - even time signature emphasizing off beats in an unusual way
-- `.rlat` - latin
 - `.ramb` - ambient, minimal or no rhythm
-- `.rplk` - polka, down-up, down-up
-- `.rdsc` - disco
-- `.rrnr` - rock 'n roll (1950's 1960's style) fast, finger snapping
-- `.rohh` - old skool hip hop
 - `.rbnc` - bounce
+- `.rdhl` - dancehall 
+- `.rdnb` - drums and bass beat (fast)
+- `.rdsc` - disco
+- `.rdub` - dub
+- `.rfnk` - funk
+- `.rfor` - standard 4:4 beat
+- `.rglc` - glitch
+- `.rgnd` - grind (double cut time)
+- `.rl*s*` - a rhythm with a mix of "long" beats (three) and "short" beats (two). Any number of `l` and `s` entries may be present here. For example `.rlss`, `.rsls`, and `.rssl` would all have a 7:8 time signature but would each have their own feel. Some esoteric jazz songs can get even crazier like "Samai Thaquil" by "Karl Hector & the Malcouns" which is `.rllllssss`.
+- `.rlat` - latin
+- `.rmet` - metal / double bass pedal fast 4:4 with lots of cymbals
+- `.rmos` - mosh / break down / chug
+- `.rmul` - multiple rhythmic feelings overlaid simultaneously. Common in 6:8 Ethiopian jazz.
+- `.rodd##` - an odd time signature with `##` beats where `##` is a zero-padded number 
+- `.rodd` - odd time signature
+- `.roff` - even time signature emphasizing off beats in an unusual way
+- `.rohh` - old skool hip hop
+- `.ronk` - rock funk
 - `.rpha` - phasing (e.g Steve Reich)
+- `.rpkf` - punk (fast cut time)
+- `.rpkr` - punk rock (fast 4:4)
+- `.rplk` - polka, down-up, down-up
+- `.rreg` - reggae, slow "and" beats
+- `.rrnr` - rock 'n roll (1950's 1960's style) fast, finger snapping
+- `.rsix` - 3:4 or 6:8, waltz
+- `.rska` - ska, faster "and" beats
+- `.rspt##&&` - a split time signature with `##` beats and then `&&` beats
+- `.rspt` - split -- different time signatures, one measure after the other
+- `.rtwo` - down beat, house, dance
 
 ### Notes
 
-- `.nctr` - country
-- `.npop` - pop / melodic
-- `.nclt` - celtic
-- `.ndst` - guitar with heavy distortion
-- `.ncmt` - classic metal, guitar solos, some distortion
-- `.nblk` - balkan
-- `.nfcr` - fast circus music
-- `.ncir` - circus
-- `.narb` - middle eastern 
-- `.nbly` - bellydance
-- `.neth` - ethiopian
-- `.nafr` - african
-- `.nnai` - native american / american indian
-- `.ncls` - classical
-- `.nsco` - film score sounding
-- `.nreg` - reggae
-- `.ndub` - dub
-- `.ndbs` - dubstep
-- `.nska` - ska
-- `.nlat` - latin
-- `.namb` - ambient, minimal or no melody
-- `.nswg` - swing
-- `.ngjz` - gypsy jazz
-- `.nage` - new age
-- `.nmic` - microtonal
-- `.nohh` - old skool hip hop
-- `.njaz` - jazz
-- `.njam` - jam band
-- `.ngru` - grunge
-- `.nflm` - flamenco
-- `.nrnb` - R & B
-- `.nsft` - soft rock
-- `.ndro` - drone
-- `.nbas` - nice bass
-- `.nhos` - house
-- `.nblu` - blues
-- `.nzyd` - zydeco
-- `.nbhg` - indian / bhangra / punjabi
-- `.nflk` - folk
-- `.nfnk` - funk
-- `.nslo` - chopped and screwed / slowed-down
-- `.nafb` - afrobeat
-- `.nbal` - balearic 
-- `.nais` - asian
-- `.nsol` - soul
-- `.natl` - atonal 
-- `.nois` - noise
-- `.npsy` - psychedelic
-- `.nsmb` - samba
-- `.nwes` - western / cowboy / spaghetti western
 - `.n8bt` - 8 bit
-- `.ncmb` - cumbia 
-- `.ntrp` - trap
-- `.nmoo` - moombahton
+- `.nafb` - afrobeat
+- `.nafr` - african
+- `.nage` - new age
+- `.nais` - asian
+- `.namb` - ambient, minimal or no melody
+- `.narb` - middle eastern 
+- `.natl` - atonal 
+- `.nbal` - balearic 
+- `.nbas` - nice bass
+- `.nbhg` - indian / bhangra / punjabi
+- `.nblk` - balkan
+- `.nblu` - blues
+- `.nbly` - bellydance
 - `.ncar` - Caribbean / Soca / calypso
+- `.ncir` - circus
+- `.ncls` - classical
+- `.nclt` - celtic
+- `.ncmb` - cumbia 
+- `.ncmt` - classic metal, guitar solos, some distortion
+- `.nctr` - country
+- `.ndbs` - dubstep
+- `.ndro` - drone
+- `.ndst` - guitar with heavy distortion
+- `.ndub` - dub
+- `.neth` - ethiopian
+- `.nfcr` - fast circus music
+- `.nflk` - folk
+- `.nflm` - flamenco
+- `.nfnk` - funk
+- `.ngjz` - gypsy jazz
+- `.ngru` - grunge
 - `.nhlf` - high life
+- `.nhos` - house
+- `.njam` - jam band
+- `.njaz` - jazz
+- `.nlat` - latin
+- `.nmic` - microtonal
+- `.nmoo` - moombahton
+- `.nnai` - native american / american indian
+- `.nohh` - old skool hip hop
+- `.nois` - noise
 - `.notm` - old time
+- `.npop` - pop / melodic
+- `.npsy` - psychedelic
+- `.nreg` - reggae
+- `.nrnb` - R & B
+- `.nsco` - film score sounding
+- `.nsft` - soft rock
+- `.nska` - ska
+- `.nslo` - chopped and screwed / slowed-down
+- `.nsmb` - samba
+- `.nsol` - soul
+- `.nswg` - swing
+- `.ntrp` - trap
+- `.nwes` - western / cowboy / spaghetti western
+- `.nzyd` - zydeco
 
 ### Scale
 
-- `.smaj`    - major
-- `.sminnat` - natural minor
-- `.sminhar` - harmonic minor
-- `.sminmel` - melodic minor
+- `.s####`   - a numerical representation of the scale as the decimal equivalent of a big-endian binary number with every active interval set to 1. For example, a major scale would be `0b101010110101` which equals `2741`, so we would write `.s2741`. Similarly, the major pentatonic scale is `0b001010010101` which equals `661` so we would write `.s0661`. Note that the decimal number should be zero padded to 4 decimal places when written into the genre string. See [Octave Compass](https://octavecompass.com/2741) for an interactive tool. 
 - `.sdblhar` - double harmonic
 - `.shungyp` - hungarian gypsy
+- `.smaj`    - major
+- `.sminhar` - harmonic minor
+- `.sminmel` - melodic minor
+- `.sminnat` - natural minor
 - `.sphrygd` - phrygian dominant
 - `.sphrygn` - phrygian
 - `.sunk`    - unknown
-- `.s####`   - a numerical representation of the scale as the decimal equivalent of a big-endian binary number with every active interval set to 1. For example, a major scale would be `0b101010110101` which equals `2741`, so we would write `.s2741`. Similarly, the major pentatonic scale is `0b001010010101` which equals `661` so we would write `.s0661`. Note that the decimal number should be zero padded to 4 decimal places when written into the genre string. See [Octave Compass](https://octavecompass.com/2741) for an interactive tool. 
 
 ### Key
 
-- `.kfn` - F natural
-- `.kcn` - C natural
-- `.kgn` - G natural
-- `.kdn` - D natural
-- `.kan` - A natural
-- `.ken` - E natural
-- `.kbn` - B natural
-- `.kgf` - G flat
-- `.kdf` - D flat
-- `.kaf` - A flat
-- `.kef` - E flat
-- `.kbf` - B flat
 - `.k##` - a numerical representation of the key with C being 00 and B being 11
+- `.kaf` - A flat
+- `.kan` - A natural
+- `.kbf` - B flat
+- `.kbn` - B natural
+- `.kcn` - C natural
+- `.kdf` - D flat
+- `.kdn` - D natural
+- `.kef` - E flat
+- `.ken` - E natural
+- `.kfn` - F natural
+- `.kgf` - G flat
+- `.kgn` - G natural
 
 ### Vocal-type
 
-- `.vcs`  - casual singing
-- `.vss`  - serious singing
-- `.vch`  - choir
-- `.vsp`  - samples
-- `.vtk`  - half way between singing and talking
 - `.vag`  - aggressive singing, more mainstream than punk
-- `.vpk`  - punk, agressive singing
-- `.vhh`  - hip hop
-- `.vxx`  - screamo / grind / hardcore metal that is not easily understandable
-- `.vhc`  - hardcore punk talking/singing that is mostly understandable
-- `.vrc`  - rap core / rap metal
-- `.vms`  - pop / club / urban / mainstream
-- `.vdw`  - doo wop / multi-part harmonies / oldies
-- `.vhr`  - strong vocal harmonies
-- `.vsh`  - shanty
-- `.vsc`  - scat
-- `.vjm`  - jamaican
-- `.vyd`  - yodeling
-- `.vsy`  - sythesized
 - `.vat`  - auto-tune
-- `.vps`  - pitch-shifted 
-- `.vug`  - ugly (eg. Tom Waits)
-- `.voc`  - vocoder
-- `.vrnb` - R & B
-- `.vcmt` - classic metal / high-pitch harmonies / hair metal
 - `.vbhg` - indian singing / bhangra / punjabi
-- `.vcht` - chanting
 - `.vblk` - balkan / eastern european
-- `.vswg` - swing
+- `.vch`  - choir
+- `.vcht` - chanting
+- `.vcmt` - classic metal / high-pitch harmonies / hair metal
+- `.vcs`  - casual singing
+- `.vdw`  - doo wop / multi-part harmonies / oldies
 - `.vfnk` - funk
 - `.vgru` - grunge
-- `.vohh` - old skool hip hop
 - `.vgsp` - gospel
+- `.vhc`  - hardcore punk talking/singing that is mostly understandable
+- `.vhh`  - hip hop
+- `.vhr`  - strong vocal harmonies
+- `.vjm`  - jamaican
+- `.vms`  - pop / club / urban / mainstream
+- `.voc`  - vocoder
+- `.vohh` - old skool hip hop
+- `.vpk`  - punk, agressive singing
+- `.vps`  - pitch-shifted 
+- `.vrc`  - rap core / rap metal
+- `.vrnb` - R & B
+- `.vsc`  - scat
+- `.vsh`  - shanty
+- `.vsp`  - samples
+- `.vss`  - serious singing
+- `.vswg` - swing
+- `.vsy`  - sythesized
+- `.vtk`  - half way between singing and talking
+- `.vug`  - ugly (eg. Tom Waits)
+- `.vxx`  - screamo / grind / hardcore metal that is not easily understandable
+- `.vyd`  - yodeling
 
 ### Language
 
@@ -235,29 +235,29 @@ _(Multiple values are possible. The groups should appear in the order below. But
 
 ### Attitude
 
-- `.ao` - offensive
-- `.au` - uncomfortable
-- `.ai` - politically incorrect
 - `.aa` - annoying
+- `.ach` - Christmas
+- `.ag` - goofy
+- `.ai` - politically incorrect
+- `.aj` - marijuana
 - `.al` - liberal
-- `.ax` - sexual
+- `.am` - misogynist 
+- `.ao` - offensive
 - `.aq` - queer
 - `.ar` - radical
-- `.ag` - goofy
 - `.at` - religious
-- `.aj` - marijuana
-- `.am` - misogynist 
+- `.au` - uncomfortable
 - `.av` - violent
-- `.ach` - Christmas
+- `.ax` - sexual
 
 ### Feeling
 
-- `.fsad` - sad
-- `.fhap` - happy
-- `.fnos` - nostalgic
+- `.fawe` - song itself is awe inspiring -- chord progression, composition, lyrics, etc. completely distract me from whatever else I'm doing at the moment, so that all I can do is listen to the song, in awe.
 - `.fboo` - scary
 - `.fdrk` - dark
-- `.fawe` - song itself is awe inspiring -- chord progression, composition, lyrics, etc. completely distract me from whatever else I'm doing at the moment, so that all I can do is listen to the song, in awe.
+- `.fhap` - happy
+- `.fnos` - nostalgic
+- `.fsad` - sad
 
 ### Instruments
 
@@ -267,15 +267,15 @@ _(Multiple values are possible. The groups should appear in the order below. But
 - `.ibel` - bells / toy piano / chimes
 - `.ibjo` - banjo
 - `.ibrs` - brass
+- `.icim` - hammered dulcimer / cimbalom / santur
 - `.icrd` - crowd noise (as in a live performance)
 - `.icrp` - drum corps
-- `.icim` - hammered dulcimer / cimbalom / santur
 - `.idjg` - didgerido
 - `.idst` - distorted guitar
 - `.ihar` - harmonica
-- `.ihur` - hurdy gurdy
 - `.ihdm` - hand drums
 - `.ihrp` - harp
+- `.ihur` - hurdy gurdy
 - `.imal` - mallet
 - `.imel` - melodica
 - `.imnd` - mandolin
@@ -291,14 +291,14 @@ _(Multiple values are possible. The groups should appear in the order below. But
 - `.itap` - tap dancing
 - `.itbl` - turn table scratching 
 - `.iuke` - ukulele
+- `.ivib` - vibriphone
 - `.iwnd` - wind: flute, recorder
 - `.iwsl` - whistle
-- `.ivib` - vibriphone
 - `.izur` - zurna
 
 ### Extra
 
 - `.xcov` - cover of another artist's song (but sounding pretty similar)
-- `.xrmx` - remix of an easily identifiable song, but with a new sound
 - `.xmsh` - mashup of other songs
 - `.xprd` - parody of another song
+- `.xrmx` - remix of an easily identifiable song, but with a new sound
