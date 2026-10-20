@@ -128,7 +128,7 @@ _(Multiple values are possible. The groups should appear in the order below. But
 - `.ncmt` - classic metal, guitar solos, some distortion
 - `.nctr` - country
 - `.ndbs` - dubstep
-- `.ndro` - drone
+- `.ndro` - drone (or especially tonal)
 - `.ndst` - guitar with heavy distortion
 - `.ndub` - dub
 - `.neth` - ethiopian
@@ -148,6 +148,7 @@ _(Multiple values are possible. The groups should appear in the order below. But
 - `.nnai` - native american / american indian
 - `.nohh` - old skool hip hop
 - `.nois` - noise
+- `.nost` - ostinato
 - `.notm` - old time
 - `.npop` - pop / melodic
 - `.npsy` - psychedelic
